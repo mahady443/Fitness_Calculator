@@ -6,8 +6,6 @@
 #include<conio.h>
 #include<fstream>
 
-
-
 using namespace std;
 
 class user
