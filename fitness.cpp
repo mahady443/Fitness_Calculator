@@ -31,6 +31,8 @@ void fitness();
 void mainmenu();
 
 
+
+
 void user::input()
 {     	
 	cout<<"\nEnter Name: ";
